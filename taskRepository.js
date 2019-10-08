@@ -19,4 +19,4 @@ var Repo = function () {
         }
     }
 
-module.exports = Repo();
+module.exports = Repo(); // Tu muszą być nawiasy bo bez nich apk nie działa

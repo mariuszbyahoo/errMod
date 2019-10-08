@@ -18,4 +18,4 @@ Task.prototype.save = function(){
         Repo.save(this);
 };
 
-module.exports = Task;
+module.exports = Task; // W tym przypadku nie można tu wstawiać przecinków tylko eksportować jak variable bo kompilator będzie protestować.
